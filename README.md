@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AtomStriker
+- 👀 I’m interested in Video Game Development
+- 🌱 I’m currently learning (just started) C++
