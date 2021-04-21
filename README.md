@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AtomStriker
-- 👀 I’m interested in Video Game Development
-- 🌱 I’m currently learning (just started) C++
+- 👀 I’m interested in Video Game Development and making bots
+- 🌱 I’m currently learning (just started) Python
