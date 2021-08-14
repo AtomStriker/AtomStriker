@@ -1,4 +1,2 @@
-
-# About me
-Hello, i'm AtomStriker.
-I'm currentley a student so i may not have much projects for you to see here, but welcome anyways.
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AtomStriker&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomStriker&theme=tokyonight)]()
