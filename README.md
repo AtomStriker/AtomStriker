@@ -49,12 +49,12 @@ Statistics for my Github account.
 <tr>
 <td align="center">
 <a href="https://github.com/AtomStriker/AtomStriker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtomStriker&show_icons=true&theme=gruvbox&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtomStriker&show_icons=true&theme=github_dark&include_all_commits=true"/>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/AtomStriker/AtomStriker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomstriker&langs_count=10&theme=gruvbox">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atomstriker&langs_count=10&theme=github_dark">
 </a>
 </td> <br>
 </table>
