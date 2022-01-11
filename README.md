@@ -36,10 +36,10 @@ My favorite tech and things for creating and building stuff.
 
 * **Backend** - NodeJS
 * **Frontend** - Plain Javascript, CSS, and HTML :muscle:
-* **Scripting** - Python, C++
+* **Scripting** - Javascript, Python, C++
 * **Datastores** - MongoDB, MySQL
-* **Tools** - Git, Github, VS Code, NeoVim/Vim
-* **OS:** - Michealsoft Binbows
+* **Tools** - Git, Github, VS Code, NeoVim/Vim, Visual Studio
+* **OS:** - Windows 10
 
 #
 
