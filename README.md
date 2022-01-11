@@ -35,7 +35,7 @@ My name is **[Atom Striker](https://github.com/AtomStriker)**, also known as *At
 My favorite tech and things for creating and building stuff.
 
 * **Backend** - NodeJS
-* **Frontend** - Plain Javascript, CSS, and HTML :muscle:
+* **Frontend** - React
 * **Scripting** - Javascript, Python, C++
 * **Datastores** - MongoDB, MySQL
 * **Tools** - Git, Github, VS Code, NeoVim/Vim, Visual Studio
