@@ -1,13 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> Hello
 
 My name is **[Atom Striker](https://github.com/AtomStriker)**, also known as *Atom*. I am a programming student, still in the making. Feel free to contribute to any of my projects.
-
-<p align="center">
-<a>
-<img src="https://avatars.githubusercontent.com/u/82794559?v=4" width="30%" alt="My Pfp" align="center"/>
-</a>
-</p>
-
 #
 
 ### :man_technologist: What I do
@@ -21,7 +14,7 @@ My name is **[Atom Striker](https://github.com/AtomStriker)**, also known as *At
   * More contribution
 
 * :earth_americas: **Open Source Projects:**
-  * Coming soon
+  * [PyFind](https://github.com/AtomStriker/PyFind)
 
 * :goal_net: **Goals:**
   * Improve in programming
