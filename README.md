@@ -6,7 +6,7 @@ My name is **[Atom Striker](https://github.com/AtomStriker)**, also known as *At
 ### :man_technologist: What I do
 
 * :briefcase: **I'm working on:**
-  * Nothing
+  * vcrypt := A cryptography cli in v
   
 * :world_map: **My plans:**  
   * Advance in C++
@@ -15,6 +15,7 @@ My name is **[Atom Striker](https://github.com/AtomStriker)**, also known as *At
 
 * :earth_americas: **Open Source Projects:**
   * [PyFind](https://github.com/AtomStriker/PyFind)
+  * [py-playground](https://github.com/AtomStriker/py-playground)
 
 * :goal_net: **Goals:**
   * Improve in programming
@@ -29,7 +30,7 @@ My favorite tech and things for creating and building stuff.
 
 * **Backend** - NodeJS
 * **Frontend** - React
-* **Scripting** - Javascript, Python, C++
+* **Scripting** - C++, Javascript, Python,Vlang 
 * **Datastores** - MongoDB, MySQL
 * **Tools** - Git, Github, VS Code, NeoVim/Vim, Visual Studio
 * **OS:** - Windows 10
