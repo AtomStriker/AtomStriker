@@ -6,7 +6,7 @@ My name is **[Atom Striker](https://github.com/AtomStriker)**, also known as *At
 ### :man_technologist: What I do
 
 * :briefcase: **I'm working on:**
-  * vcrypt := A cryptography cli in v
+  * `vcrypt := A cryptography cli in v`
   
 * :world_map: **My plans:**  
   * Advance in C++
