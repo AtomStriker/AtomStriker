@@ -16,7 +16,6 @@ My name is **[Atom Striker](https://github.com/AtomStriker)**, also known as *At
 
 * :earth_americas: **Open Source Projects:**
   * [PyFind](https://github.com/AtomStriker/PyFind)
-  * [py-playground](https://github.com/AtomStriker/py-playground)
 
 * :goal_net: **Goals:**
   * Improve in programming
